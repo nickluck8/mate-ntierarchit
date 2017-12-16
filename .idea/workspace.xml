@@ -6,7 +6,129 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d1efd73-ff4f-4dc4-92a8-a99a8ad02867" name="Default" comment="" />
+    <list default="true" id="9d1efd73-ff4f-4dc4-92a8-a99a8ad02867" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT.war" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/controller/Controller.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/controller/CreateUserController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/controller/LoginUserController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/controller/MainController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/controller/ProfileController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/controller/UserController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/dao/AbstractDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/dao/GenericDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/dao/UserDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/dao/UserDaoImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/model/Column.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/model/ID.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/model/Reflection.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/model/Table.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/model/User.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/service/UserService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/service/UserServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/util/ApplicationConstants.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/util/BaseUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/web/LoginFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/web/MainServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/web/Methods$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/web/Methods$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/web/Methods.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/web/Request.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/classes/com/nick/web/ViewModel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/lib/h2-1.4.196.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/lib/junit-4.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/lib/mockito-core-1.10.19.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/lib/objenesis-2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/controller/Controller.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/controller/CreateUserController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/controller/LoginUserController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/controller/MainController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/controller/ProfileController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/controller/UserController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/dao/AbstractDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/dao/GenericDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/dao/UserDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/dao/UserDaoImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/model/Column.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/model/ID.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/model/Reflection.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/model/Table.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/model/User.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/service/UserService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/service/UserServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/util/ApplicationConstants.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/util/BaseUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/web/LoginFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/web/MainServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/web/Methods$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/web/Methods$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/web/Methods.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/web/Request.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/nick/web/ViewModel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ntierarchit_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ntierarchit_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_196.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ntierarchit.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/Factory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/controller/Controller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/controller/CreateUserController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/controller/LoginUserController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/controller/MainController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/controller/ProfileController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/controller/UserController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/dao/AbstractDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/dao/GenericDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/dao/UserDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/dao/UserDaoImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/model/Column.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/model/ID.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/model/Reflection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/model/Table.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/model/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/service/UserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/service/UserServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/util/ApplicationConstants.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/util/BaseUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/web/LoginFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/web/MainServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/web/Methods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/web/Request.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nick/web/ViewModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/error.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/home.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/profile.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/signup.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/error.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/home.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/profile.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/signup.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Homework5-1.0-SNAPSHOT/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -164,6 +286,9 @@
       <find>de</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -262,12 +387,13 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
     <option name="height" value="1048" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -604,12 +730,12 @@
       <workItem from="1513408589740" duration="369000" />
       <workItem from="1513406835048" duration="75000" />
       <workItem from="1513425839044" duration="5009000" />
-      <workItem from="1513443298312" duration="28000" />
+      <workItem from="1513443298312" duration="627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101813000" />
+    <option name="totallyTimeSpent" value="102412000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -621,7 +747,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -634,7 +760,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32801822" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
