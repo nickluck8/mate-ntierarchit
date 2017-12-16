@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ntierarchit:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Homework5-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ntierarchit:war exploded" />
+    </root>
+  </artifact>
+</component>
