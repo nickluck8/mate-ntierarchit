@@ -1,11 +1,9 @@
 package com.nick.web;
 
 import com.nick.Factory;
-import com.nick.controller.Controller;
-import com.nick.controller.CreateUserController;
-import com.nick.controller.LoginUserController;
-import com.nick.controller.ProfileController;
+import com.nick.controller.*;
 import com.nick.dao.UserDaoImpl;
+import com.nick.service.UserService;
 import com.nick.service.UserServiceImpl;
 
 import javax.servlet.ServletException;
@@ -42,6 +40,12 @@ public class MainServlet extends HttpServlet {
                         .compose(UserDaoImpl::new)
                         .apply(Factory.getConnection()));
         controllerMap.put(new Request("/servlet/profile", "GET"), new ProfileController());
+        controllerMap.put(new Request("/servlet/FB", "GET"),
+                Factory.getSomething(FBLoginController::new)
+                        .compose(UserServiceImpl::new)
+                        .compose(UserDaoImpl::new)
+                        .apply(Factory.getConnection()));
+        
     }
 
     @Override

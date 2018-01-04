@@ -47,32 +47,12 @@ public abstract class AbstractDao<T> implements GenericDao<T> {
         }
 
 
-        return null;
+        return t;
     }
 
     public T findById(Long id) {
         return null;
     }
-
-//    public T update(T t) {
-//        String sql = "Update " + Reflection.getTableName(t) + " SET " + getTableName(Reflection.getMap(t).keySet())
-//                + " WHERE ID = " + getId(t) + ";";
-//        try {
-//            PreparedStatement preparedStatement = connection.prepareStatement(sql);
-//            int count = 1;
-//            for (Map.Entry<String, String> entry : Reflection.getMap(t).entrySet()) {
-//                preparedStatement.setString(count, entry.getValue());
-//
-//                count++;
-//            }
-//            preparedStatement.executeUpdate();
-//
-//        } catch (SQLException e) {
-//            e.printStackTrace();
-//        }
-//
-//        return null;
-//    }
 
     public T update(T t) {
         String sql = null;

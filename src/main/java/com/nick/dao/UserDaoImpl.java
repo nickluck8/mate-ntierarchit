@@ -22,7 +22,7 @@ public class UserDaoImpl extends AbstractDao<User> implements UserDao {
 
     public User create(User user) {
         super.create(user);
-        return null;
+        return user;
     }
 
     public User findById(Long id) {

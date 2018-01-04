@@ -37,6 +37,7 @@ public class Main {
         //System.out.println(s);
         System.out.println(Reflection.getMap(user) + " ID: " + user.getId());
         //System.out.println(Reflection.getMap(user1) + " ID: " + user1.getId());
+
     }
 
 }

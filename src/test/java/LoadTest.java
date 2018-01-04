@@ -47,7 +47,7 @@ public class LoadTest extends Thread {
     }
 
     @Test
-    public void doTet() {
+    public void doTest() {
         for (String s : listForTesting) {
             try {
                 handleWebPage(s);

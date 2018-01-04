@@ -1,5 +1,7 @@
-
+<%@ page import="com.restfb.FacebookClient" %>
+<%@ page import="com.restfb.DefaultFacebookClient" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+
 <html>
 <head>
     <title>Sign up</title>
@@ -32,6 +34,7 @@
     <div class="submit">
         <button type="submit">Enter</button>
     </div>
+
 
 </form>
 </body>

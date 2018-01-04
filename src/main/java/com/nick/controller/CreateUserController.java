@@ -9,9 +9,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import static com.nick.web.Methods.GET;
-import static com.nick.web.Methods.POST;
 
 public class CreateUserController implements Controller {
+
 
     private UserService userService;
 
@@ -37,7 +37,6 @@ public class CreateUserController implements Controller {
 
     @Override
     public ViewModel process(HttpServletRequest req, HttpServletResponse resp) {
-
 
         ViewModel viewModel = new ViewModel("signup");
         if (req.getMethod().equals(GET.toString())) {

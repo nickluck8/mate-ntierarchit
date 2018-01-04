@@ -37,7 +37,7 @@ public class LoginFilter implements Filter {
                 }
             }
             if (token == null) {
-               // httpServletResponse.sendRedirect("/servlet/login");
+                // httpServletResponse.sendRedirect("/servlet/login");
                 httpServletRequest.getRequestDispatcher("/servlet/login").forward(httpServletRequest, servletResponse);
             }
         }
